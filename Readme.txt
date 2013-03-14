@@ -8,6 +8,8 @@ ABOUT
 --------------------------------
 This is just a quick demonstration of how to add text using a TTF font to an image using the GD library in PHP.
 
+If you would like to see this code in action, go to http://www.egoant.com/dev/cheez/textifier.php
+
 FILES
 --------------------------------
 ###textify.php
